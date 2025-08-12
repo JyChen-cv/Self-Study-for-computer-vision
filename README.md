@@ -1,1 +1,1 @@
-# Self-Study-for-computer-vision 1231
+# Self-Study-for-computer-vision
